@@ -1,0 +1,129 @@
+employee_id,name,employeement_type,work_mode,date_of_joining,department,designation,skill_group_name
+1001,"Gautham Kumar E",Permanent,"Work from Home",2019-09-01,"Tech & Engineering","Digital Transformation Lead",FullStack
+1002,"Mohamed Faizal S",Permanent,"Work from Office",2019-09-01,"Microsoft Business Group","Senior Digital Transformation Engineer",FullStack
+1003,"Nihal Suhair M",Permanent,"Work from Office",2019-09-01,"Strategy Consulting","Business Transformation Lead",UI/UX
+1004,"Selvakumar Kannan",Permanent,"Work from Office",2020-02-01,"House of Innovation","Digital Transformation Engineer",FullStack
+1006,"Rajkumar Raveendran",Permanent,"Work from Office",2020-11-01,"Tech & Engineering","Senior Digital Transformation Engineer",FullStack
+1007,"Syed Magdoom",Permanent,"Work from Home",2020-11-01,"Tech & Engineering","Customer Engagement Manager",UI/UX
+1008,"Saran Prabhu",Permanent,"Work from Home",2020-11-01,"Tech & Engineering","Digital Transformation Solution Architect",FullStack
+1009,Richard,Permanent,"Work from Home",2020-11-01,"Tech & Engineering","Digital Transformation Solution Architect",FullStack
+1010,"Nazibullah T",Permanent,"Work from Office",2021-01-01,"Tech & Engineering","Digital Transformation Engineer",FullStack
+1011,"Sridevi V",Permanent,"Work from Office",2021-01-04,"Quality Engineering & Assurance","QA Lead","Quality Analyst"
+R8,"Gokul Balaji Ponraj",Contract,"Work from Office",2021-02-08,"Cloud & Edge Computing","Senior Digital Transformation Engineer",FullStack
+1013,"Muthulakshmi G",Permanent,"Work from Office",2021-02-15,"Microsoft Business Group","Senior Digital Transformation Engineer",BackEnd
+1014,"Danish Khurram",Permanent,"Work from Office",2021-02-15,"Strategy Consulting","Business Transformation Associate","Business Analyst"
+1015,"Sowndarya Sekar",Permanent,"Work from Office",2021-03-01,"Tech & Engineering","Digital Transformation Engineer",FullStack
+1016,"Abbas Ali",Permanent,"Work from Office",2021-04-01,"Strategy Consulting","Business Transformation Associate","Business Analyst"
+1017,"Isswarya Murugan",Permanent,"Work from Office",2021-04-01,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1018,Niyamathulla,Permanent,"Work from Office",2021-04-01,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1019,"Ramesh A",Permanent,"Work from Office",2021-04-01,"Microsoft Business Group","Senior Digital Transformation Engineer",BackEnd
+1020,"Jakeer Hussain Khan N",Permanent,"Work from Office",2021-04-16,"Quality Engineering & Assurance","QA Engineer","Quality Analyst"
+1021,"Praveen P",Permanent,"Work from Office",2021-04-20,"Tech & Engineering","Digital Transformation Engineer",FullStack
+1022,"Mohammed Muzaffar R",Permanent,"Work from Office",2021-04-21,"Strategy Consulting","Business Transformation Associate","Business Analyst"
+1023,"Abishake Babu S",Permanent,"Work from Office",2021-05-01,"Tech & Engineering","Digital Transformation Engineer",FullStack
+1024,"Anu Preethi",Permanent,"Work from Office",2021-05-01,"Quality Engineering & Assurance","QA Engineer","Quality Analyst"
+1026,"Jennifer Samuel",Permanent,"Work from Office",2021-05-01,"Quality Engineering & Assurance","QA Engineer","Quality Analyst"
+1028,"Saran M",Permanent,"Work from Office",2021-05-01,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1029,"Mohamed Faheem",Permanent,"Work from Office",2021-05-01,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1031,"Mahesh Dharma Mari",Permanent,"Work from Office",2021-06-01,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1032,"Vignesh Kumar P",Permanent,"Work from Office",2021-06-01,"Tech & Engineering","Digital Transformation Engineer","Mobile App"
+1033,"Afiya Pathan",Permanent,"Work from Office",2021-06-21,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1035,"Tahaseen Taj Pathan",Permanent,"Work from Office",2021-06-21,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1036,"Abdul Nazar R",Permanent,"Work from Office",2021-07-01,"Quality Engineering & Assurance","QA Automation Lead","Quality Analyst"
+1037,"Pritha Mohanta",Permanent,"Work from Office",2021-07-01,"Strategy Consulting","Business Transformation Associate","Business Analyst"
+1038,"Meeran Mydeen S",Permanent,"Work from Home",2021-07-01,"Microsoft Business Group","Digital Transformation Lead",BackEnd
+1040,"Nithya Kalyani",Permanent,"Work from Office",2021-08-09,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1041,"Siva Swamydurai",Permanent,"Work from Office",2021-08-16,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1042,"Amith P",Permanent,"Work from Home",2021-08-16,"Tech & Engineering","Senior Digital Transformation Engineer","Mobile App"
+1044,"Mohamed Ijas Haja Mohideen",Permanent,"Work from Office",2021-09-01,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1046,"Saikeerthi C",Permanent,"Work from Office",2021-11-01,"Quality Engineering & Assurance","QA Engineer","Quality Analyst"
+1047,"Liswin George",Permanent,"Work from Home",2021-11-17,"Microsoft Business Group","Senior Digital Transformation Engineer",BackEnd
+1048,"Hafizur Rahman",Permanent,"Work from Office",2021-12-01,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1049,"Mohamed Sulaiman",Permanent,"Work from Office",2021-12-01,"Microsoft Business Group","Digital Transformation Engineer",BackEnd
+1050,"Sarankumar Ramamoorthy",Permanent,"Work from Office",2021-12-01,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1052,"Uma Maheswari Veeramani",Permanent,"Work from Office",2021-12-15,"Tech & Engineering","Project Manager - Digital Transformation",UI/UX
+1053,"Gugapriya O",Permanent,"Work from Office",2022-01-03,"Learning & Development","Head - Talent Transformation",UI/UX
+1054,"Abdul Aseel A",Permanent,"Work from Office",2022-05-02,"Tech & Engineering","Digital Transformation Engineer",BackEnd
+1055,"Harish W S",Permanent,"Work from Office",2022-05-02,"Microsoft Business Group","Digital Transformation Engineer",BackEnd
+1056,"Kashef Ahmed K",Permanent,"Work from Office",2022-05-02,"Cloud & Edge Computing","Digital Transformation Engineer",BackEnd
+1057,"Logeshwaran K",Permanent,"Work from Office",2022-05-02,"House of Innovation","Digital Transformation Engineer",BackEnd
+1058,"Mohamed Jameel S",Permanent,"Work from Office",2022-05-02,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1059,"Mohammed Altaf A",Permanent,"Work from Office",2022-05-02,"Microsoft Business Group","Digital Transformation Engineer",BackEnd
+1060,"Mohammed Ismail Shahid T",Permanent,"Work from Office",2022-05-02,"Microsoft Business Group","Digital Transformation Engineer",BackEnd
+1061,"Mohammed Naveed A",Permanent,"Work from Office",2022-05-02,"Microsoft Business Group","Digital Transformation Engineer",BackEnd
+1062,"Nagal Thabrez Ahmed",Permanent,"Work from Office",2022-05-02,"Design & User Experience","Digital Transformation Engineer","Front End"
+1063,"Riyaz Shahul Ahamed K",Permanent,"Work from Office",2022-05-02,"Tech & Engineering","Digital Transformation Engineer","Front End"
+1064,"Mohamed Hanif S M",Permanent,"Work from Office",2022-05-02,"Design & User Experience","UI/UX Engineer",Methodology
+1065,"Siddique Batcha J",Permanent,"Work from Office",2022-05-02,"Tech & Engineering","Digital Transformation Engineer",FullStack
+1066,"Sujail Ahamed S",Permanent,"Work from Office",2022-05-02,"Microsoft Business Group","Digital Transformation Engineer",BackEnd
+1067,"Syed Mohamed Auscar Mujeeb Sahib S",Permanent,"Work from Office",2022-05-02,"Microsoft Business Group","Digital Transformation Engineer","Front End"
+1068,"Meeran Mohideen",Permanent,"Work from Home",2022-06-01,"Microsoft Business Group","Digital Transformation Engineer",BackEnd
+1069,"Mohamed Basheer",Permanent,"Work from Home",2022-06-01,"Microsoft Business Group","Digital Transformation Engineer",BackEnd
+1070,"Delphina G",Permanent,"Work from Office",2022-07-01,"Tech & Engineering","Digital Transformation Engineer",BackEnd
+1071,"Syed Muzamil R",Permanent,"Work from Office",2022-07-01,"Tech & Engineering","Digital Transformation Engineer",FullStack
+1072,"Sarumathi E",Permanent,"Work from Office",2022-07-01,"Quality Engineering & Assurance","QA Engineer","Quality Analyst"
+1073,"Deepika Rajagopalan",Permanent,"Work from Office",2022-08-08,"Microsoft Business Group","Digital Transformation Solution Architect",FullStack
+1074,"Hassan Sheriff D",Permanent,"Work from Office",2022-08-16,"Strategy Consulting","Business Transformation Associate","Business Analyst"
+1075,"Karthik R",Permanent,"Work from Office",2022-09-12,"Quality Engineering & Assurance","Digital Transformation Engineer",BackEnd
+1077,"Fahima Jasmine M",Permanent,"Work from Office",2022-04-01,"Learning & Development","Digital Transformation Trainee","Front End"
+1078,"Mohamed Annas Shahul Hameed",Permanent,"Work from Office",2022-06-01,"Tech & Engineering","Digital Transformation Trainee","Front End"
+1079,"Mohammed Thaher Z",Permanent,"Work from Office",2022-06-01,"Tech & Engineering","Digital Transformation Engineer",BackEnd
+1080,"Sam Lordson RB",Permanent,"Work from Office",2022-06-01,"Quality Engineering & Assurance","QA Trainee","Quality Analyst"
+1081,"Syed Kaashif Hussaini R",Permanent,"Work from Office",2022-06-01,"Quality Engineering & Assurance","QA Trainee","Quality Analyst"
+1082,"Thouseef A",Permanent,"Work from Office",2022-06-21,"Quality Engineering & Assurance","QA Trainee","Business Analyst"
+1083,"Basheer Abdullah",Permanent,"Work from Office",2022-07-01,"Design & User Experience","UI/UX Trainee",Methodology
+1084,"Mohammed Thoufic Isham A  S",Permanent,"Work from Office",2022-07-01,"Learning & Development","Digital Transformation Trainee","Front End"
+1085,"Mohammed Asif A",Permanent,"Work from Office",2022-07-01,"Strategy Consulting","Business Transformation Trainee","Business Analyst"
+1087,"A Mohamed Muzamil",Permanent,"Work from Office",2022-12-01,"Tech & Engineering","Digital Transformation Trainee","Front End"
+1088,"Nabeel Ahmed Thameem Ansari",Permanent,"Work from Office",2022-12-01,"Learning & Development","Digital Transformation Trainee","Front End"
+1089,"Wasif Ahmed ",Permanent,"Work from Office",2022-12-01,"Tech & Engineering","Digital Transformation Trainee",BackEnd
+1090,Muralivishva,Permanent,"Work from Office",2022-12-01,"Tech & Engineering","Digital Transformation Trainee","Front End"
+1091,Saribullah,Permanent,"Work from Office",2022-12-01,"Tech & Engineering","Digital Transformation Trainee",BackEnd
+1092,"Subhashini Sithivinayagam",Permanent,"Work from Office",2022-12-07,"Tech & Engineering","Project Manager",UI/UX
+1093,"Suresh k",Permanent,"Work from Office",2022-12-16,"Microsoft Business Group","Digital Transformation Engineer",BackEnd
+1094,"Margoobur Rahman A",Permanent,"Work from Office",2022-03-09,"Learning & Development","Digital Transformation Trainee","Front End"
+7001,"Karthik Gunasekar",Permanent,"Work from Office",2019-09-01,"Strategy Consulting",Director,UI/UX
+7002,"Sharmila Shan",Permanent,"Work from Home",2019-09-01,"HR & Operations",Director,UI/UX
+7003,"Imthyaz Sheriff C",Permanent,"Work from Office",2022-04-01,"Strategy Consulting","Chief Digital Transformation Evangelist ",UI/UX
+1109,"Deepa Nagarajan",Permanent,"Work from Office",2020-11-01,"Microsoft Business Group","Digital Transformation Consultant","Quality Analyst"
+R7,"Arun Marx",Contract,"Not Applicable",2020-05-01,"Tech & Engineering","Digital Transformation Engineer",FullStack
+1097,"Ahamed Kabeer A",Permanent,"Work from Office",2023-02-01,"Quality Engineering & Assurance","Digital Transformation Trainee","Front End"
+1098,"Hanif Adhithan N A",Permanent,"Work from Office",2023-02-01,"Quality Engineering & Assurance","Digital Transformation Trainee",BackEnd
+1100,"Mohamed Mousin Hasith A",Permanent,"Work from Office",2023-02-01,"Quality Engineering & Assurance","Digital Transformation Trainee",BackEnd
+1102,"Mohammed Umar Khan P",Permanent,"Work from Office",2023-02-01,"Quality Engineering & Assurance","Digital Transformation Trainee","Front End"
+1103,"Prizilla Shinjini",Permanent,"Work from Office",2023-02-01,"Quality Engineering & Assurance","Content Writer","MicroSoft Office"
+1104,"Sheikchikkandarmydeen S",Permanent,"Work from Office",2023-02-01,"Quality Engineering & Assurance","Digital Transformation Trainee","Mobile App"
+1105,"Zuhail Ahamed H",Permanent,"Work from Office",2023-02-01,"Microsoft Business Group","UI/UX Trainee",Methodology
+I7,"Aaliyah Banu R",Intern,"Work from Office",2022-07-12,"Design & User Experience","Content Creation Trainee","MicroSoft Office"
+I25,"Mubeen Ahmed",Intern,"Work from Office",2022-07-01,"Learning & Development","Digital Transformation Trainee","Front End"
+I28,"Dinesh Babu S",Intern,"Work from Office",2022-08-01,"Learning & Development","Digital Transformation Trainee","Front End"
+I35,"Nirmalkumar M",Intern,"Work from Office",2022-09-26,"Learning & Development","Digital Transformation Trainee",BackEnd
+I37,"Jayalakshmi G",Intern,"Work from Office",2022-11-01,"Learning & Development","Digital Transformation Trainee",BackEnd
+I38,"Felix Praveen L",Intern,"Work from Office",2022-11-03,"Learning & Development","Digital Transformation Trainee",BackEnd
+I39,"Khatija tul kubra M",Intern,"Work from Office",2022-11-21,"Learning & Development","Digital Transformation Trainee","Front End"
+I42,"Nirmala Devi S",Intern,"Work from Office",2022-12-05,"Learning & Development","QA Trainee","Quality Analyst"
+I43,"Ramesh K",Intern,"Work from Office",2022-12-05,"Learning & Development","QA Trainee","Quality Analyst"
+I44,"Mohamed Imran M",Intern,"Work from Office",2022-12-14,"Learning & Development","QA Trainee","Quality Analyst"
+I46,"Barath C",Intern,"Work from Office",2022-12-21,"Learning & Development","Digital Transformation Trainee","Front End"
+I48,Riyajutheen.A,Intern,"Work from Office",2023-01-31,"Learning & Development","Digital Transformation Trainee","Mobile App"
+I49,Muhil.K.B,Intern,"Work from Office",2023-02-01,"Learning & Development","Digital Transformation Trainee","Business Analyst"
+MI1,"Syed Siyayoudeen",Intern,"Work from Office",2022-12-05,"Learning & Development","Digital Transformation Trainee","Front End"
+MI2,"Asif Ali K U",Intern,"Work from Office",2022-12-05,"Learning & Development","Digital Transformation Trainee","Front End"
+MI3,"Faizal Salahudeen R K",Intern,"Work from Office",2022-12-05,"Learning & Development","Digital Transformation Trainee",Methodology
+MI4,"Safrin Safana A",Intern,"Work from Office",2022-12-05,"Learning & Development","Digital Transformation Trainee","Mobile App"
+MI5,"Mohamed Refaydeen I",Intern,"Work from Office",2022-12-05,"Learning & Development","Digital Transformation Trainee","Mobile App"
+MI6,"Santhosh S",Intern,"Work from Office",2022-12-05,"Learning & Development","Digital Transformation Trainee",BackEnd
+MI7,"Velmurugan M",Intern,"Work from Office",2022-12-08,"Learning & Development","Digital Transformation Trainee",BackEnd
+MI8,"Aysha begum s",Intern,"Work from Office",2023-01-04,"Learning & Development","Digital Transformation Trainee","Business Analyst"
+MI9,"Guna Sundari S",Intern,"Work from Office",2023-01-04,"Learning & Development","Digital Transformation Trainee","Business Analyst"
+MI10,"Abdul Waheed A J",Intern,"Work from Office",2023-01-04,"Learning & Development","Digital Transformation Trainee","Front End"
+MI11,"Ibrahim Rila.P.Z",Intern,"Work from Office",2023-01-04,"Learning & Development","Digital Transformation Trainee","Front End"
+MI12,"Abdul Kalam A",Intern,"Work from Office",2023-01-04,"Learning & Development","Digital Transformation Trainee","Front End"
+MI13,"Azeem Parvez A",Intern,"Work from Office",2023-01-04,"Learning & Development","Digital Transformation Trainee","Front End"
+MI14,"Mohamed Musharaf",Intern,"Work from Office",2023-01-04,"Learning & Development","Digital Transformation Trainee","Front End"
+MI15,"Jagadheesh S",Intern,"Work from Office",2023-01-04,"Learning & Development","Digital Transformation Trainee",BackEnd
+MI16,"John Suman",Intern,"Work from Office",2023-01-04,"Learning & Development","Digital Transformation Trainee",BackEnd
+MI17,"Waleed Ibrahim M N",Intern,"Work from Office",2023-01-04,"Learning & Development","Digital Transformation Trainee","Front End"
+MI18,"Pharvez Musharaf K M",Intern,"Work from Office",2023-01-04,"Learning & Development","Digital Transformation Trainee","Front End"
+MI19,"Mohammed Wasim H",Intern,"Work from Office",2023-01-04,"Learning & Development","Digital Transformation Trainee","Front End"
+I41,"Mohammed Yousuf J",Intern,"Work from Office",2023-01-18,"Learning & Development","Digital Transformation Trainee",Methodology
